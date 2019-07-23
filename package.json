@@ -1,7 +1,10 @@
 {
 	"name": "@jsdsl/array-list",
 	"version": "0.1.0",
-	"description": "<desc>",
+	"description": "An ArrayList implementation in JavaScript/TypeScript.",
+	"publishConfig": {
+		"access": "public"
+	},
 	"main": "js/main",
 	"types": ".d.ts/main",
 	"scripts": {

@@ -552,7 +552,7 @@ to the start of each source file to most effectively state the exclusion of warr
 and each file should have at least the “copyright” line and a pointer to
 where the full notice is found.
 
-    @jsdsl/array-list - <desc>
+    @jsdsl/array-list - An ArrayList implementation in JavaScript/TypeScript.
     Copyright (C) 2019 Trevor Sears
 
     This program is free software: you can redistribute it and/or modify

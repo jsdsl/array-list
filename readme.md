@@ -1,5 +1,5 @@
 # JSDSL - ArrayList
-<desc>
+An ArrayList implementation in JavaScript/TypeScript.
 
 ### [Find @jsdsl/array-list on NPM.](https://www.npmjs.com/package/@jsdsl/array-list)
 
